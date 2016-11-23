@@ -1,3 +1,7 @@
 git init;
 git status;
-git add "nume fisier";
+git add "nume fisier"; sau pentru toate "git add." sau "git add *.html"
+git branch NumeBrach
+git checkout NumeBranch //schimb branch-ul
+git clone "link"
+
