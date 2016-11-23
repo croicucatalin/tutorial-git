@@ -12,6 +12,8 @@ namespace TEST
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Bye!");
+            Console.WriteLine("!!");
+
         }
     }
 }
